@@ -6,4 +6,5 @@
 
 Novedad: Hacer click en la tarjeta
 
-Creado por [**JPF**](https://juanpablofavale.github.io/Maqueta-Portfolio-2/)
+## <font color="#006600">Creado por</font>
+[![Firma](https://github.com/juanpablofavale/PruebasMarkDown/blob/main/Firma.png "JPF")](https://juanpablofavale.github.io/Maqueta-Portfolio-2/)
